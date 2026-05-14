@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[Victor%Brandão]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20•%20Criador%20•%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[Victorl%lBrandão]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20•%20Criador%20•%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez+%E2%9C%A8;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
