@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[Victor]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20•%20Criador%20•%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Victor%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20%E2%80%A2%20Criador%20%E2%80%A2%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez+%E2%9C%A8;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 ```python
 class Desenvolvedor:
     def __init__(self):
-        self.nome        = "[Victor Brandão]"
+        self.nome        = "Victor Brandão"
         self.localizacao = "Brasil 🇧🇷", "Santa Bárbara MG"
         self.foco        = ["Full Stack", "IA & Automação", "UX/UI"]
         self.stack       = ["Python", "JavaScript", "TypeScript", "React", "Node.js"]
@@ -128,20 +128,7 @@ class Desenvolvedor:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrandusV&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Onde Me Encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_DISCORD_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrandusV&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -157,24 +144,14 @@ class Desenvolvedor:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=flat-square&label=Visitantes)
-
-**⭐ Se curtiu algum projeto, deixa uma estrela — significa muito!**
-
-</div>
-
-## 🌐 Onde me encontrar
+## 🌐 Onde Me Encontrar
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_brandaovictor)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/brandusv)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vambs0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-brandão-2a647529b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-brand%C3%A3o-2a647529b/)
 
 </div>
 
@@ -183,6 +160,8 @@ class Desenvolvedor:
 <div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BrandusV.BrandusV&color=A78BFA)
+
+**⭐ Se curtiu algum projeto, deixa uma estrela — significa muito!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
