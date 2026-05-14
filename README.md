@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[SEU%20NOME]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20•%20Criador%20•%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[Victor Brandão]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20•%20Criador%20•%20Entusiasta%20de%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+IA+e+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez+%E2%9C%A8;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -13,8 +13,8 @@
 ```python
 class Desenvolvedor:
     def __init__(self):
-        self.nome        = "[SEU NOME]"
-        self.localizacao = "Brasil 🇧🇷"
+        self.nome        = "[Victor Brandão]"
+        self.localizacao = "Brasil 🇧🇷", "Santa Bárbara MG"
         self.foco        = ["Full Stack", "IA & Automação", "UX/UI"]
         self.stack       = ["Python", "JavaScript", "TypeScript", "React", "Node.js"]
         self.atualmente  = "Construindo sistemas inteligentes com Claude AI"
@@ -91,14 +91,14 @@ class Desenvolvedor:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandusV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandusV&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandusV&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -108,7 +108,7 @@ class Desenvolvedor:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrandusV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,7 +118,7 @@ class Desenvolvedor:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/BrandusV/BrandusV/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -128,7 +128,7 @@ class Desenvolvedor:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrandusV&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
