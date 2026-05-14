@@ -91,8 +91,8 @@ class Desenvolvedor:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandusV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandusV&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrandusV&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrandusV&theme=tokyonight"/>
 
 </div>
 
